@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "yo_frederick",
+  "wake_word": "are_two_dee_two",
   "author": "j.bream",
   "website": "https://github.com/wsieber/stuff",
-  "model": "yo_frederick.tflite",
+  "model": "are_two_dee_two.tflite",
   "trained_languages": [
     "en"
   ],
