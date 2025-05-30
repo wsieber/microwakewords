@@ -3,7 +3,7 @@
   "wake_word": "op_tih_mus",
   "author": "j.bream",
   "website": "https://github.com/wsieber/stuff",
-  "model": "stream_state_internal_quant.tflite",
+  "model": "op_tih_mus.tflite",
   "trained_languages": [
     "en"
   ],
