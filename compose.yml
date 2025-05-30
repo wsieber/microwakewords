@@ -1,0 +1,15 @@
+services:
+  microwakeword-trainer:
+    image: masterphooey/microwakeword-trainer
+    ports:
+      - "8898:8888"
+    volumes:
+      - ./mww/data:/data
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+    stdin_open: true   # Equivalent to -it
+    tty: true          # Equivalent to -it
+    restart: "no"      # Optional, aligns with data directory removal need after notebook completion
