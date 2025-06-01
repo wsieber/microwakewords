@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "see_three_pee_oh",
+  "wake_word": "c3po",
   "author": "j.bream",
   "website": "https://github.com/wsieber/stuff",
-  "model": "see_three_pee_oh.tflite",
+  "model": "c3po.tflite",
   "trained_languages": [
     "en"
   ],
