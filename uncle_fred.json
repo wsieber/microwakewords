@@ -3,7 +3,7 @@
   "wake_word": "uncle_fred",
   "author": "j.bream",
   "website": "https://github.com/wsieber/stuff",
-  "model": "stream_state_internal_quant.tflite",
+  "model": "uncle_fred.tflite",
   "trained_languages": [
     "en"
   ],
@@ -15,4 +15,5 @@
     "tensor_arena_size": 30000,
     "minimum_esphome_version": "2024.7.0"
   }
+
 }
