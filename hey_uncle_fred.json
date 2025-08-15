@@ -3,7 +3,7 @@
   "wake_word": "hey_uncle_fred",
   "author": "master phooey",
   "website": "https://github.com/MasterPhooey/MicroWakeWord-Trainer-Docker",
-  "model": "hey_uncle_fred",
+  "model": "hey_uncle_fred.tflite",
   "trained_languages": [
     "en"
   ],
@@ -16,3 +16,4 @@
     "minimum_esphome_version": "2024.7.0"
   }
 }
+
