@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "glados",
+  "wake_word": "glad_aus",
   "author": "j.bream",
   "website": "https://github.com/wsieber/stuff",
-  "model": "glados.tflite",
+  "model": "glad_aus.tflite",
   "trained_languages": [
     "en"
   ],
@@ -15,4 +15,5 @@
     "tensor_arena_size": 30000,
     "minimum_esphome_version": "2024.7.0"
   }
+
 }
