@@ -1,18 +1,17 @@
 {
   "type": "micro",
   "wake_word": "see_three_pee_oh",
-  "author": "j.bream",
-  "website": "https://github.com/wsieber/stuff",
+  "author": "Helvio Pedreschi",
   "model": "see_three_pee_oh.tflite",
   "trained_languages": [
     "en"
   ],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.97,
-    "sliding_window_size": 5,
+    "probability_cutoff": 0.9,
     "feature_step_size": 10,
-    "tensor_arena_size": 30000,
+    "sliding_window_size": 5,
+    "tensor_arena_size": 22860,
     "minimum_esphome_version": "2024.7.0"
   }
 }
