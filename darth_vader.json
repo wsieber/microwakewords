@@ -1,4 +1,4 @@
-
+{
   "type": "micro",
   "wake_word": "darth_vader",
   "author": "j.bream",
@@ -16,4 +16,5 @@
     "minimum_esphome_version": "2024.7.0"
   }
 }
+
 
