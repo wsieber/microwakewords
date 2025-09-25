@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "darth_vader",
   "author": "j.bream",
-  "website": "https://github.com/MasterPhooey/MicroWakeWord-Trainer-Docker",
+  "website": "https://github.com/wsieber/stuff",
   "model": "darth_vader.tflite",
   "trained_languages": [
     "en"
@@ -15,4 +15,5 @@
     "tensor_arena_size": 30000,
     "minimum_esphome_version": "2024.7.0"
   }
+
 }
