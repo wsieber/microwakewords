@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "loki",
-  "author": "master phooey",
+  "wake_word": "low_key",
+  "author": "j.bream",
   "website": "https://github.com/MasterPhooey/MicroWakeWord-Trainer-Docker",
-  "model": "loki.tflite",
+  "model": "low_key.tflite",
   "trained_languages": [
     "en"
   ],
