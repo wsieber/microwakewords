@@ -3,7 +3,7 @@
   "wake_word": "confuser",
   "author": "j.bream",
   "website": "https://github.com/wsieber/MicroWakeWord-Trainer-Docker",
-  "model": "stream_state_internal_quant.tflite",
+  "model": "confuser.tflite",
   "trained_languages": [
     "en"
   ],
