@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "mega_mind",
+  "wake_word": "megamind",
   "author": "j.bream",
   "website": "https://github.com/wsieber/microwakewords",
-  "model": "mega_mind.tflite",
+  "model": "megamind.tflite",
   "trained_languages": [
     "en"
   ],
@@ -17,3 +17,4 @@
   }
 
 }
+
