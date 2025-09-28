@@ -1,6 +1,6 @@
 {
-  "type": "micro", 
-  "wakeword": "hey_vader",
+  "type": "micro",
+  "wake_word": "hey_vader",
   "author": "j.bream",
   "website": "https://github.com/wsieber/microwakewords",
   "model": "hey_vader.tflite",
@@ -9,12 +9,11 @@
   ],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.7,
+    "probability_cutoff": 0.6,
     "sliding_window_size": 5,
-    "feature_step_size": 20,
-    "tensor_arena_size": 22050,
+    "feature_step_size": 15,
+    "tensor_arena_size": 30000,
     "minimum_esphome_version": "2024.7.0"
   }
-
 }
 
