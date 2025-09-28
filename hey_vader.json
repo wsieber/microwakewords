@@ -1,5 +1,6 @@
 {
-  "type": "micro", "hey_vader",
+  "type": "micro", 
+  "wakeword": "hey_vader",
   "author": "j.bream",
   "website": "https://github.com/wsieber/microwakewords",
   "model": "hey_vader.tflite",
@@ -16,3 +17,4 @@
   }
 
 }
+
