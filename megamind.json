@@ -1,18 +1,19 @@
 {
   "type": "micro",
   "wake_word": "megamind",
-  "author": "master phooey",
-  "website": "https://github.com/MasterPhooey/MicroWakeWord-Trainer-Docker",
+  "author": "j.bream",
+  "website": "https://github.com/wsieber/MicroWakeWord-Trainer-Docker",
   "model": "megamind.tflite",
   "trained_languages": [
     "en"
   ],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.5,
+    "probability_cutoff": 0.75,
     "sliding_window_size": 5,
-    "feature_step_size": 20,
+    "feature_step_size": 15,
     "tensor_arena_size": 24000,
     "minimum_esphome_version": "2024.7.0"
   }
 }
+
