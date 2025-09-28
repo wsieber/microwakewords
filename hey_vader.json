@@ -1,5 +1,5 @@
 {
-  "type": "micro",hey_vader",
+  "type": "micro", "hey_vader",
   "author": "j.bream",
   "website": "https://github.com/wsieber/microwakewords",
   "model": "hey_vader.tflite",
@@ -14,4 +14,5 @@
     "tensor_arena_size": 22050,
     "minimum_esphome_version": "2024.7.0"
   }
+
 }
