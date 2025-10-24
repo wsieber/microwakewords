@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "oh_kay_neck_sess",
-  "author": "Tater Totterson",
-  "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
-  "model": "oh_kay_neck_sess.tflite",
+  "wake_word": "Ok Nexus",
+  "author": "j.bream",
+  "website": "https://github.com/wsieber/mmicrowakewords.git",
+  "model": "ok_nexus.tflite",
   "trained_languages": [
     "en"
   ],
