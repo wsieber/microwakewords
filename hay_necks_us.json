@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "hay_necks_us",
-  "author": "Tater Totterson",
-  "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
-  "model": "hay_necks_us.tflite",
+  "wake_word": "Hey Nexus",
+  "author": "j.bream",
+  "website": "https://github.com/wsieber/microwakewords.git",
+  "model": "Hey_Nexus.tflite",
   "trained_languages": [
     "en"
   ],
