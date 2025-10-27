@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "Hey Nexus",
+  "wake_word": "hey_nexus",
   "author": "j.bream",
   "website": "https://github.com/wsieber/microwakewords.git",
-  "model": "Hey Nexus.tflite",
+  "model": "hey_nexus.tflite",
   "trained_languages": [
     "en"
   ],
