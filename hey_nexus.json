@@ -3,7 +3,7 @@
   "wake_word": "Hey Nexus",
   "author": "j.bream",
   "website": "https://github.com/wsieber/microwakewords.git",
-  "model": "Hey_Nexus.tflite",
+  "model": "hey_nexus.tflite",
   "trained_languages": [
     "en"
   ],
