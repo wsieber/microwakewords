@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "oh_kay_glad_us",
-  "author": "Tater Totterson",
-  "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
-  "model": "oh_kay_glad_us.tflite",
+  "wake_word": "Ok Glados",
+  "author": "f.mendelsohnn",
+  "website": "https://github.com/wsieber/microwakewords.git",
+  "model": "ok_glados.tflite",
   "trained_languages": [
     "en"
   ],
