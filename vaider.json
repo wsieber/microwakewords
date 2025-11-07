@@ -1,7 +1,7 @@
 {
   "type": "micro",
   "wake_word": "vaider",
-  "author": "Tater Totterson",
+  "author": "j.bream",
   "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
   "model": "vaider.tflite",
   "trained_languages": [
