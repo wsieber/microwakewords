@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "ungcol_phred",
+  "wake_word": "Uncle Fred",
   "author": "j,bream",
   "website": "https://github.com/wsieber/microwakewords.git",
   "model": "ungcol_phred.tflite",
