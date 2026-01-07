@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "come_pew_ter",
+  "wake_word": "Computer",
   "author": "j.bream",
   "website": "https://github.com/wsieber/stuff",
   "model": "come_pew_ter.tflite",
@@ -15,4 +15,5 @@
     "tensor_arena_size": 30000,
     "minimum_esphome_version": "2024.7.0"
   }
+
 }
