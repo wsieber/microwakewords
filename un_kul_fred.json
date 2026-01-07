@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "un_kul_fred",
+  "wake_word": "Uncle Fred",
   "author": "f.mendelsohhn",
   "website": "https://github.com/wsieber/microwakewords.git",
   "model": "un_kul_fred.tflite",
