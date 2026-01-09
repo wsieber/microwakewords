@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "yYo Frederick",
+  "wake_word": "Yo Frederick",
   "author": "Tater Totterson",
   "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
   "model": "yo_fred_er_rick.tflite",
