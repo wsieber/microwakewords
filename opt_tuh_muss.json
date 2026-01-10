@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "opt_tuh_muss",
+  "wake_word": "Optimus",
   "author": "Tater Totterson",
   "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
   "model": "opt_tuh_muss.tflite",
