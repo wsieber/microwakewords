@@ -1,6 +1,6 @@
 {
     "type": "micro",
-    "wake_word": "C3po",
+    "wake_word": "c3po",
     "author": "Tater Totterson",
     "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
     "model": "c3po.tflite",
