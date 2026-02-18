@@ -1,6 +1,6 @@
 {
     "type": "micro",
-    "wake_word": "Are Two Dee Two",
+    "wake_word": "r2d2",
     "author": "Tater Totterson",
     "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
     "model": "are_two_dee_two.tflite",
