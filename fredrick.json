@@ -1,15 +1,15 @@
 {
   "type": "micro",
-  "wake_word": "fredrick",
+  "wake_word": "Fredrick",
   "author": "Tater Totterson",
-  "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-AppleSilicon",
+  "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
   "model": "fredrick.tflite",
   "trained_languages": [
     "en"
   ],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.27,
+    "probability_cutoff": 0.98,
     "sliding_window_size": 3,
     "feature_step_size": 10,
     "tensor_arena_size": 30000,
